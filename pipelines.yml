@@ -2,5 +2,5 @@ resources:
   - name: myAppRepo
     type: GitRepo
     configuration:
-      gitProvider: pipeline_challenge               # Change to your integration
+      gitProvider: my_github               # Change to your integration
       path: Chandu2000/jfrog-pipeline-challenge                 # Change to your repo

@@ -3,4 +3,4 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: pipeline_challenge               # Change to your integration
-      path: mjmckay/jfrog-pipeline-challenge                 # Change to your repo
+      path: Chandu2000/jfrog-pipeline-challenge                 # Change to your repo
